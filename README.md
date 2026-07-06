@@ -1,4 +1,4 @@
-# Hoppy Game
+<img width="1313" height="489" alt="image" src="https://github.com/user-attachments/assets/3859c888-7ba1-488d-bb43-6302571f05cd" />
 
 Hoppy Game is an Epitech project that consists of doing a Game Boy cartridge containing multiple mini-games.
 
@@ -46,7 +46,12 @@ Load the generated `.gb` file into your emulator.
 
 ## Mini-Games
 
+<img width="1247" height="678" alt="image" src="https://github.com/user-attachments/assets/3190619a-696a-488f-8893-60d6576c8aff" />
+
 ### Hoppy Snake
+
+<img width="684" height="605" alt="image" src="https://github.com/user-attachments/assets/2c1617c8-802a-4ae1-93b2-cd4d0854dffa" />
+
 
 The **Hopppy Snake** game is a simple arcade game where the player controls a snake that moves around to eat a heart, it makes him regains life. The goal is to keep eating food without crashing into the walls. The game ends when the snake crashes, with the player's score based on how much hearts was collected.
 
@@ -67,6 +72,8 @@ The **Hopppy Snake** game is a simple arcade game where the player controls a sn
 
 ### Hoppy Bird
 
+<img width="678" height="605" alt="image" src="https://github.com/user-attachments/assets/5235fbb6-6d25-4fb7-a144-f0e94fdbe43d" />
+
 The **Hoppy Bird** is an arcade-style game in which the player controls the bird Hoppy, which moves persistently to the right. They are tasked with navigating Hoppy through pairs of pipes that have equally sized gaps placed at random heights. Hoppy automatically descends and only ascends when the player taps the touchscreen.
 
 - Simple tap controls that make the game easy for kids to understand and play right away.
@@ -84,6 +91,9 @@ The **Hoppy Bird** is an arcade-style game in which the player controls the bird
 | Select       | Return to main menu |
 
 ### Hoppy Run
+
+<img width="678" height="605" alt="image" src="https://github.com/user-attachments/assets/ac6a227b-700f-4b11-b745-9b108afa155a" />
+
 
 The **Hoppy Run** game is an endless runner arcade game in which the player controls Hoppy, the Epitech cat, which moves persistently to the right. The player is tasked with navigating Hoppy through randomly generated pipes placed at varying heights. Hoppy automatically runs forward and the player must time jumps to avoid obstacles.
 
